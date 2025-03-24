@@ -1,18 +1,7 @@
 # V_Hack
-Thank you for checking out our project! Due to limitations with our Figma account (basic mode), we're unable to directly integrate with GitHub. Instead, we've provided PNG exports of our design assets for your review.
-Viewing the Design
-The PNG files in this repository contain all the key screens and components of our design. To view them:
+Thank you for checking out our project! Due to limitations with our Figma account (basic mode), we're unable to directly integrate with GitHub. Instead, we've provided links for you to try directly to our figma pages
 
-Navigate to the design-assets folder
-Open any PNG file to view the corresponding screen or component
-Refer to the file naming convention (screen-name.png) to understand what each file represents
-
-Interactive Demo
-While static images are helpful, we understand that seeing the interactive flow provides a much better understanding of the user experience. We've created a video demonstration that walks through the key interactions and flows of our design.
-To watch the demo:
-
-Follow this link: Design Demo Video
-The video includes narration explaining our design decisions and interaction patterns
+Follow this link: [Demo Prototype](https://www.figma.com/proto/DiOZpoBzhBdvuzc7m8DRhy/YoungMen?node-id=216-751&t=kJKUmxYRSHQsvzDK-1)
 
 Additional Information
 If you have any questions about the design or would like to provide feedback, please:
