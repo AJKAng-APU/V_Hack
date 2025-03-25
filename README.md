@@ -34,7 +34,7 @@ Follow these steps to clone the repository and set up the project:
    ```
 3. Navigate to the project directory:
    ```bash
-   cd healthsync
+   cd V_Hack
    ```
 
 ## Project Setup
