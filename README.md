@@ -30,7 +30,7 @@ Follow these steps to clone the repository and set up the project:
 1. Open your terminal or command prompt
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/healthsync.git
+   git clone https://github.com/AJKAng-APU/V_Hack.git
    ```
 3. Navigate to the project directory:
    ```bash
