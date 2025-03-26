@@ -1,6 +1,6 @@
-# HealthSync - Your AI Health Assistant
+# Young - Your AI Health Assistant
 
-HealthSync is a React-based mobile health application designed to help users track and manage their health with personalized AI assistance. This README provides instructions for setting up and running the application from GitHub.
+Young is a React-based mobile health application designed to help users track and manage their health with personalized AI assistance. This README provides instructions for setting up and running the application from GitHub.
 
 ## Table of Contents
 
