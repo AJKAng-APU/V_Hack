@@ -155,4 +155,4 @@ If you encounter issues running the application:
    npm install lucide-react
    ```
 
-Thank you for using HealthSync! If you have any questions or need further assistance, please open an issue on the GitHub repository.
+Thank you for using Young! If you have any questions or need further assistance, please open an issue on the GitHub repository.
